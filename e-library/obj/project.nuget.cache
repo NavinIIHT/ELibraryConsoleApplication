@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lg8djbg0zP2HUWp4Ww+ZSZLp/gcGLQnMge9/gZAR3oXVrI7I3xJKR0ZnMU+Pl/7OY9a6VDVoSB32+nCf2onuww==",
+  "success": true,
+  "projectFilePath": "D:\\IIHT DATA\\E-library Console App\\LibraryConsoleCleanCode\\e-library\\e-library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Uma Kumar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
